@@ -3,18 +3,49 @@
   
   <url>
     <loc>http://freshpassport.cn/categories/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://freshpassport.cn/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshpassport.cn/tags/markdown/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshpassport.cn/post/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://freshpassport.cn/tags/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshpassport.cn/categories/test/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshpassport.cn/post/test/</loc>
+    <lastmod>2020-02-10T22:36:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
